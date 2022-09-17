@@ -34,7 +34,7 @@
 
 ## 💻 Project
 
-The project is called Find your Duo. It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
+The project is called Find your Duo. It is a platform to find the perfect partner to play your favorite game together, by connecting your [Twitch.tv][twitch] account.
 
 
 <p align="center">
@@ -147,7 +147,7 @@ Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/
 
                                                                                             
                                                                                             
-
+[twitch]: https://www.twitch.tv/
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [prisma]: https://www.prisma.io/
