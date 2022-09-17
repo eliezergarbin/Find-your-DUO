@@ -59,7 +59,7 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+To access the layout use [Figma](https://www.figma.com/community/file/1150897317533332617).
 
 ## :information_source: How To Use
 
