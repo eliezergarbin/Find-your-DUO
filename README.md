@@ -1,6 +1,6 @@
 # Find-your-DUO
 <h4 align="center"> 
-	 NextLevelWeek eSports 🚀 Find-your-DUO 
+	 NextLevelWeek eSports | Find-your-DUO 
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliezerGarbin/Find-your-DUO?color=%2304D361">
@@ -24,16 +24,16 @@
 <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="license">License</a>
 </p>
 
 
-## 💻 Project
+## Project
 
 The project is called Find your Duo. It is a platform to find the perfect partner to play your favorite game together, by connecting your [Twitch.tv][twitch] account.
 
@@ -51,7 +51,7 @@ Technologies such as React Native + React Hooks and Expo (a tool that brings a s
 </p>
 
 
-## 🚀 Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
@@ -66,7 +66,7 @@ This project was developed with the following technologies:
 - [Tailwind][tailwind]
 - [Expo][expo]
 
-## 🔖 Layout
+## Layout
 
 To access the layout use [Figma](https://www.figma.com/community/file/1150897317533332617).
 
@@ -138,7 +138,7 @@ $ expo start
 
 ```
 
-## 🤔 How to contribute
+## How to contribute
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
@@ -147,7 +147,7 @@ $ expo start
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/EliezerGarbin/Find-your-DUO/blob/master/LICENSE) for details.
 
