@@ -35,7 +35,7 @@
 
 ## Project
 
-The project is called Find your Duo. It is a platform to find the perfect partner to play your favorite game together, by connecting your [Twitch.tv][twitch] account.
+The project is called Find your Duo. It is a platform to find the perfect partner to play your favorite game together.
 
 #### Backend
 Using tools like Typescript, Node.js(Runtime), Prisma(ORM) and Express(Framework) connected to db SQLite, we create tables and HTTPs requests where it creates database queries, making a RESTful API fully usable.
@@ -154,9 +154,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Elie
 
 Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/eliezergarbin/)
 
-                                                                                            
-                                                                                            
-[twitch]: https://www.twitch.tv/
+                                                                                                                                                       
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [prisma]: https://www.prisma.io/
